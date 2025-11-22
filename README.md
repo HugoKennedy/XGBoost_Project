@@ -1,4 +1,4 @@
-Prédiction de Pourboires de Taxis à NYC avec XGBoost
+##Prédiction de Pourboires de Taxis à NYC avec XGBoost
 Description du Projet
 Ce projet vise à prédire le montant du pourboire (tip amount) pour les courses de taxis jaunes à New York City (NYC), en utilisant l'algorithme de régression XGBoost.
 
